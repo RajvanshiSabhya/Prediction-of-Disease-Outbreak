@@ -61,15 +61,6 @@ The dataset used for training was provided during the **TechSaksham Internship P
 
 ---
 
-## 🏥 Screenshots  
-
-```md
-![Image](https://github.com/user-attachments/assets/6d509115-2dcc-449e-b2f1-afda583f2564)
-
-```
-
----
-
 ## 📌 Future Improvements
 
 🔹 Improve accuracy by fine-tuning SVM hyperparameters  
