@@ -1,1 +1,26 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 
+# Ignore virtual environment
+venv/
+env/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore Streamlit secrets file
+.secrets.toml
+
+# Ignore model files (if needed)
+*.pkl
+*.h5
+models/
+
+# Ignore IDE and OS-specific files
+.vscode/
+.DS_Store
+Thumbs.db
