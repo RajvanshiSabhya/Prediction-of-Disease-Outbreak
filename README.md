@@ -64,7 +64,7 @@ The dataset used for training was provided during the **TechSaksham Internship P
 ## 🏥 Screenshots  
 
 ```md
-![Diabetic-Person](https://github.com/user-attachments/assets/db1c7f68-6552-432c-ace8-2cfa56f2e750)
+![Image](https://github.com/user-attachments/assets/6d509115-2dcc-449e-b2f1-afda583f2564)
 
 ```
 
